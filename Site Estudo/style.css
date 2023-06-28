@@ -41,7 +41,10 @@ h1{
 nav{
     text-align: left;
     padding: 10px;
-    
+}
+
+nav:hover {
+    color: blue;
 }
 
 h2 {
